@@ -35,3 +35,9 @@ em {
     font-style: italic;
     color: #555;
 }
+header, footer {
+    background-color: #4CAF50; /* Change this to your desired color */
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
