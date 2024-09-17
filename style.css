@@ -63,3 +63,28 @@ img {
     max-width: 100%;
     height: auto;
 }
+a {
+    color: #FF5722;
+    text-decoration: none;
+}
+a:hover {
+    color: #4CAF50;
+    text-decoration: underline;
+}
+.highlight {
+    background-color: #FFFF99;
+}
+#special-note {
+    font-size: 1.2em;
+    color: #f0f0f0;
+    font-weight: bold;
+}
+
+.recipe-container p a {
+    color: #FF5722; 
+    text-decoration: none;
+}
+.recipe-container p a:hover {
+    color: #4CAF50; 
+    text-decoration: underline;
+}
