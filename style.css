@@ -2,9 +2,12 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #333; 
 }
 .recipe-container {
-    border: 2px solid #4CAF50; /* Change this to your desired color */
+    border: 2px solid #af8c4c; 
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
@@ -14,7 +17,7 @@ body {
 h1 {
     font-family: 'Georgia', serif;
     font-size: 2.5em;
-    color: #4CAF50;
+    color: #af8c4c;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -48,7 +51,7 @@ em {
     color: #555;
 }
 header, footer {
-    background-color: #af8c4c; /* Change this to your desired color */
+    background-color: #af8c4c; 
     color: white;
     padding: 10px;
     text-align: center;
